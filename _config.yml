@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ross Alexander"
 title_separator          : "-"
 name                     : &name "Ross Alexander"
-description              : &description "personal description"
+description              : &description "My personal website"
 url                      : https://rbalexander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rbalexander.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ross B. Alexander"
   avatar           : "profile.png"
-  bio              : "Graduate student at Stanford University"
-  location         : "Palo Alto, CA"
+  bio              : "Undergraduate student at Texas A&M University"
+  location         : "College Station, TX"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "ross.alexander19tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,8 +100,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/r-b-alexander/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
