@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ross B. Alexander"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at Texas A&M University"
+  bio              : "Undergraduate student studying aerospace engineering at Texas A&M University"
   location         : "College Station, TX"
-  employer         :
+  employer         : "Texas A&M University"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "ross.alexander19tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/r-b-alexander/"
+  linkedin         : "r-b-alexander"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
