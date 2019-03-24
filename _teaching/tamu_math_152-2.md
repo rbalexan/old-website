@@ -9,4 +9,4 @@ date: 2017-01-01
 location: "College Station, Texas"
 ---
 
-## Differentiation and integration techniques and their applications (area, volumes, work), improper integrals, approximate integration, analytic geometry, vectors, infinite series, power series, Taylor series, computer algebra.
+Differentiation and integration techniques and their applications (area, volumes, work), improper integrals, approximate integration, analytic geometry, vectors, infinite series, power series, Taylor series, computer algebra.

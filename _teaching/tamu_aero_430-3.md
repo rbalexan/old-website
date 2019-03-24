@@ -9,4 +9,4 @@ date: 2018-01-01
 location: "College Station, Texas"
 ---
 
-## Numerical and analytical simulation of physical problems in sciences and engineering using applied methods; developing and using numerical techniques for physical problems described by nonlinear algebraic equations, ordinary and partial differential equations.
+Numerical and analytical simulation of physical problems in sciences and engineering using applied methods; developing and using numerical techniques for physical problems described by nonlinear algebraic equations, ordinary and partial differential equations.

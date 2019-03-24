@@ -9,4 +9,4 @@ date: 2016-09-01
 location: "College Station, Texas"
 ---
 
-## Study of functions, graphs of polynomial and rational functions, radical functions, exponential and logarithmic functions, inequalities, trigonometric functions, fundamental identities, right triangles, trigonometric equations.
+Study of functions, graphs of polynomial and rational functions, radical functions, exponential and logarithmic functions, inequalities, trigonometric functions, fundamental identities, right triangles, trigonometric equations.
