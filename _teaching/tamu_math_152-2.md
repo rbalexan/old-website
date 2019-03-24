@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/tamu_math_152-2
 venue: "Texas A&M University"
+taught: Spring 2017
 date: 2017-01-01
 location: "College Station, Texas"
 ---

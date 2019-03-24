@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/tamu_engr_289-1
 venue: "Texas A&M University"
+taught: Fall 2016
 date: 2016-09-01
 location: "College Station, Texas"
 ---
