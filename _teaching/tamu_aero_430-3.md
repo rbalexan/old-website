@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/tamu_aero_430-3
 venue: "Texas A&M University"
-date: 2018-01-01
+date: Spring 2018 - Spring 2019
 location: "College Station, Texas"
 ---
 
