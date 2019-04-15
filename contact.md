@@ -38,11 +38,7 @@ I value my time, so make it worth it, and [keep it succinct.](https://www.google
 ---
 
 <p id="email">
-	<a href="mailto:sindresorhus@gmail.com">sindresorhus@gmail.com</a>
+	<a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
 </p>
 
 ---
-
-Please no support questions, job offers, questionnaires, etc.
-
-If the answer to your question could be interesting to others, consider asking in my [AMA](https://github.com/sindresorhus/ama) instead.
