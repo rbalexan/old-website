@@ -3,18 +3,6 @@ description: Undergraduate student at Texas A&M University
 baseurl: ''
 url: https://rbalexander.me
 permalink: slug
-collections:
-  apps:
-    output: true
-    permalink: /:title
-    include: app-assets
-defaults:
-  - scope:
-      path: ''
-      type: 'apps'
-    values:
-      layout: 'app'
-      type: 'app'
 exclude:
   - Gemfile
   - Gemfile.lock
