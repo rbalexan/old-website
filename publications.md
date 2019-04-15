@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Teaching
+title: Publications
 ---
 
 <style>
@@ -14,7 +14,7 @@ title: Teaching
 }
 </style>
 
-# Teaching
+# Publications
 
-<p class="tagline">Teaching below. <a href="">My work is funded by the community.</a></p>
+<p class="tagline">Publications below. <a href="">My work is funded by the community.</a></p>
 
