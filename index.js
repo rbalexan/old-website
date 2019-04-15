@@ -19,7 +19,7 @@ const insertHypenationHintsForCamelCase = string => string.replace(/([a-z])([A-Z
 
 // Latest blog post
 (async () => {
-	const username = 'sindresorhus';
+	const username = 'rbalexander';
 	const graphql = `
 		query PostQuery($username: String!) {
 			posts(username: $username, limit: 1) {

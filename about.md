@@ -11,8 +11,8 @@ My current focus is on macOS app development with Swift and Node.js-based packag
 ### More
 
 - [Interviewed by Between the Wires](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
-- [Answering Anything & Everything](https://blog.sindresorhus.com/answering-anything-678ce5623798)
-- [About Me Blog Post](https://blog.sindresorhus.com/about-sindre-sorhus-42786d2e191b)
+- [Answering Anything & Everything](https://medium.com/r-b-alexanders-blog)
+- [About Me Blog Post](https://medium.com/r-b-alexanders-blog)
 
 ### Links
 
