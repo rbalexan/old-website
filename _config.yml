@@ -6,10 +6,8 @@ permalink: slug
 exclude:
   - Gemfile
   - Gemfile.lock
-  - readme.md
   - license
   - CNAME
-  - screenshot.jpg
 plugins:
   - jekyll-sitemap
 strict_front_matter: true

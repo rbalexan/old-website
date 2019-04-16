@@ -2,33 +2,6 @@
 layout: default
 ---
 
-<style>
-	#latest-repos-container h2 {
-		margin-bottom: 2rem;
-	}
-
-	#latest-repos h4 {
-		margin-bottom: 0.5rem;
-	}
-
-	.sponsors {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.sponsors a:not(:first-child) {
-		margin-left: 10px;
-	}
-</style>
-<script type="module">
-// Temp redirect for old URL
-if (location.hash === '#apps') {
-	location.hash = '';
-	location.pathname = '/apps';
-}
-</script>
-
 <section class="hero is-fullheight is-default">
 	<div class="hero-body">
 		<div id="info-container" class="container has-text-centered">
