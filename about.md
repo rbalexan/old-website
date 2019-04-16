@@ -11,5 +11,5 @@ My future graduate research is focused on estimation and control of stochastic s
 ### Links
 
 - [GitHub](https://github.com/rbalexander)
-- [Instagram](https://instagram.com/rbalexan)
+- [LinkedIn](https://www.linkedin.com/in/r-b-alexander/)
 - [Email](/contact)

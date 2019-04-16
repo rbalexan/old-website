@@ -33,12 +33,21 @@ element.search = searchParams.toString();
 
 # Contact
 
-I value my time, so make it worth it, and [keep it succinct.](https://www.google.com/search?q=succinct+emails)
-
 ---
 
+### General Email
 <p id="email">
 	<a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
+</p>
+
+### Texas A&M University Email
+<p id="email">
+	<a href="mailto:ross.alexander19@tamu.edu">ross.alexander19@tamu.edu</a>
+</p>
+
+### Stanford University Email
+<p id="email">
+	<a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
 </p>
 
 ---
