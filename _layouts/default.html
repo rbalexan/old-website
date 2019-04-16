@@ -11,15 +11,15 @@
 		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 		<meta property="og:url" content="{{ page.url | absolute_url }}">
 		<meta property="og:description" content="{{ description }}">
-		<meta property="og:image" content="https://sindresorhus.com/sindre-sorhus.jpg">
+		<meta property="og:image" content="https://rbalexander.me/rbalexander-small.png">
 		<meta name="twitter:card" content="summary">
-		<meta name="twitter:site" content="@sindresorhus">
-		<meta name="twitter:creator" content="@sindresorhus">
+		<!-- <meta name="twitter:site" content="@sindresorhus"> -->
+		<!-- <meta name="twitter:creator" content="@sindresorhus"> -->
 		<meta name="x-build-time" content="{{ site.time | date_to_rfc822 }}">
 		<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 		<link rel="alternate" type="application/rss+xml" title="R. B. Alexander's Blog" href="https://medium.com/r-b-alexanders-blog">
 		<link rel="preload" href="{{ '/font-awesome.woff' | relative_url }}" as="font" crossorigin>
-		<link rel="icon" href="{{ '/favicon.png' | relative_url }}" sizes="32x32">
+		<link rel="icon" href="{{ '/favicon.png' | relative_url }}" sizes="438x438">
 		<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
 		<script type="module" src="{{ '/main.js' | relative_url }}"></script>
 		{% if page.url == '/' %}
@@ -43,7 +43,7 @@
 					<nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
 						<div class="navbar-brand">
 							{% if page.url == '/' %}
-								<a id="unicorn-btn" class="navbar-item" href="https://sindresorhus.com/unicorn" title="Click me!">🦄</a>
+								<a id="unicorn-btn" class="navbar-item" href="https://sindresorhus.com/unicorn" title="Click me!"></a>
 							{% else %}
 								<span class="navbar-item">R. B. Alexander</span>
 							{% endif %}
@@ -57,7 +57,7 @@
 							<div class="navbar-end">
 								<a class="navbar-item is-tab" href="{% link index.html %}">Home</a>
 								<a class="navbar-item is-tab" href="{% link about.md %}">About</a>
-								<a class="navbar-item is-tab" href="{% link index.html %}#projects">Projects</a>
+								<a class="navbar-item is-tab" href="{% link projects.md %}">Projects</a>
 								<a class="navbar-item is-tab" href="{% link teaching.md %}">Teaching</a>
 								<a class="navbar-item is-tab" href="{% link publications.md %}">Publications</a>
 								<a class="navbar-item is-tab" href="{% link cv.md %}">CV</a>
