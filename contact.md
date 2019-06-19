@@ -35,14 +35,12 @@ element.search = searchParams.toString();
 
 ---
 
-### General Email
 <p id="email">
-	<a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
+	General email: <a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
 </p>
 
-### Stanford University Email
 <p id="email">
-	<a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
+	Stanford University email: <a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
 </p>
 
 ---

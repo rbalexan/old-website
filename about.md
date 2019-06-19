@@ -6,10 +6,10 @@ title: About
 # About Me
 I'm a first-year graduate student pursuing a Master of Science in Aeronautics & Astronautics at Stanford University starting in September 2019. 
 
-## *Undergraduate*
+### *Undergraduate*
 From 2015 to 2019, I attended Texas A&M University studying aerospace engineering. In May 2019, I graduated with my Bachelor of Science in Aerospace Engineering.
 
-## *Graduate*
+### *Graduate*
 In early 2019, I was selected as a [Stanford Graduate Fellow in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf/details)! I am very grateful to have been nominated and selected for support as a doctoral fellow through the SGF program.
 
 *From the Office of the Vice Provost for Graduate Education:*
@@ -23,7 +23,7 @@ Fellows are selected each year by the Graduate Fellowships Faculty Advisory Comm
 ### *Research*
 My future graduate research is focused on estimation and control of stochastic systems, nonlinear dynamics, optimization, machine learning, decision-making systems, autonomy, and reinforcement learning (RL).
 
-## *Links*
+### *Links*
 - [GitHub](https://github.com/rbalexander)
 - [LinkedIn](https://www.linkedin.com/in/r-b-alexander/)
 - [Email](/contact)
