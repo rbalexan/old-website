@@ -40,11 +40,6 @@ element.search = searchParams.toString();
 	<a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
 </p>
 
-### Texas A&M University Email
-<p id="email">
-	<a href="mailto:ross.alexander19@tamu.edu">ross.alexander19@tamu.edu</a>
-</p>
-
 ### Stanford University Email
 <p id="email">
 	<a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>

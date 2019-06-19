@@ -16,5 +16,4 @@ title: CV
 
 # Curriculum Vitae (CV)
 
-<p class="tagline">CV also available as a PDF. <a href="">My work is funded by the community.</a></p>
 
