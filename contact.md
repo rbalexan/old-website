@@ -35,12 +35,12 @@ element.search = searchParams.toString();
 
 ---
 
-<p id="email">
-	General email: <a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
-</p>
+General email: <a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.com</a>
 
-<p id="email">
-	Stanford University email: <a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
-</p>
+Stanford University email: <a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
+
+[GitHub](https://github.com/rbalexander) (@rbalexander)
+
+[LinkedIn](https://www.linkedin.com/in/r-b-alexander/) (@r-b-alexander)
 
 ---

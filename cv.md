@@ -16,4 +16,4 @@ title: CV
 
 # Curriculum Vitae (CV)
 
-
+View my CV here or [contact me](https://rbalexander.me/contact) for my most up-to-date CV.

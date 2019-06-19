@@ -16,6 +16,8 @@ title: Publications
 
 # Publications
 
+*Check out my blog, [Advancing Front]("https://medium.com/r-b-alexanders-blog"), which has articles covering topics in aeronautics & astronautics, mathematics, computer science, philosophy, and much more.*
+
 ### Unrefereed Publications
 
 <ol reversed>

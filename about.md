@@ -24,6 +24,6 @@ Fellows are selected each year by the Graduate Fellowships Faculty Advisory Comm
 My future graduate research is focused on estimation and control of stochastic systems, nonlinear dynamics, optimization, machine learning, decision-making systems, autonomy, and reinforcement learning (RL).
 
 ### *Links*
+- [Email](/contact)
 - [GitHub](https://github.com/rbalexander)
 - [LinkedIn](https://www.linkedin.com/in/r-b-alexander/)
-- [Email](/contact)
