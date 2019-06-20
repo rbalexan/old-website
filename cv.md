@@ -18,4 +18,4 @@ title: CV
 
 View my CV here or [contact me](https://rbalexander.me/contact) for my most up-to-date CV.
 
-<iframe src="http://docs.google.com/gview?url=https://rbalexander.me/cv.pdf&embedded=true" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://rbalexander.me/cv.pdf&embedded=true" frameborder="0"></iframe>
