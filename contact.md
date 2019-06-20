@@ -39,8 +39,8 @@ General email: <a href="mailto:ross.alexander7@gmail.com">ross.alexander7@gmail.
 
 Stanford University email: <a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
 
-[GitHub](https://github.com/rbalexander) (@rbalexander)
-
-[LinkedIn](https://www.linkedin.com/in/r-b-alexander/) (@r-b-alexander)
-
 ---
+
+Github: ([@rbalexander](https://github.com/rbalexander))
+
+LinkedIn: ([@r-b-alexander](https://www.linkedin.com/in/r-b-alexander/))
