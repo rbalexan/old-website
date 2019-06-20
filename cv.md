@@ -16,6 +16,4 @@ title: CV
 
 # Curriculum Vitae (CV)
 
-View my CV here or [contact me](https://rbalexander.me/contact) for my most up-to-date CV.
-
-<iframe src="https://docs.google.com/gview?url=https://rbalexander.me/cv.pdf&embedded=true" style="width:800px; height:1035px;" frameborder="0"></iframe>
+View my CV <a href="https://rbalexander.me/cv.pdf">here</a> or [contact me](https://rbalexander.me/contact) for my most up-to-date CV.
