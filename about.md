@@ -10,7 +10,7 @@ I'm a first-year graduate student pursuing a Master of Science in Aeronautics & 
 From 2015 to 2019, I attended Texas A&M University studying aerospace engineering. In May 2019, I graduated with my Bachelor of Science in Aerospace Engineering.
 
 ### *Graduate*
-In early 2019, I was selected as a [Stanford Graduate Fellow in Science & Engineering](https://vpge.stanford.edu/fellowships-funding/sgf/details)! I am very grateful to have been nominated and selected for support as a doctoral fellow through the SGF program.
+In early 2019, I was selected as a <a href="https://vpge.stanford.edu/fellowships-funding/sgf/details" target="_blank">Stanford Graduate Fellow in Science & Engineering</a>! I am very grateful to have been nominated and selected for support as a doctoral fellow through the SGF program.
 
 *From the Office of the Vice Provost for Graduate Education:*
 > Each year, SGF awards approximately 100 fellowships providing stipends and tuition support to outstanding students pursuing doctoral degrees in science and engineering. Since the first fellowships were awarded in 1997, over 1600 Stanford Graduate Fellows have received their PhDs from Stanford. <br> <br>
@@ -25,5 +25,5 @@ My future graduate research is focused on estimation and control of stochastic s
 
 ### *Links*
 - [Email](/contact)
-- [GitHub](https://github.com/rbalexander)
-- [LinkedIn](https://www.linkedin.com/in/r-b-alexander/)
+- <a href="https://github.com/rbalexander" target="_blank">GitHub</a>
+- <a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">LinkedIn</a>

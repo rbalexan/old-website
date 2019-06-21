@@ -41,6 +41,6 @@ Stanford University email: <a href="mailto:rbalexander@stanford.edu">rbalexander
 
 ---
 
-Github: ([@rbalexander](https://github.com/rbalexander))
+Github: (<a href="https://github.com/rbalexander" target="_blank">@rbalexander</a>)
 
-LinkedIn: ([@r-b-alexander](https://www.linkedin.com/in/r-b-alexander/))
+LinkedIn: (<a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">@r-b-alexander</a>)
