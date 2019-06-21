@@ -21,12 +21,11 @@ title: Publications
 ### *Unrefereed Publications*
 
 <ol reversed>
-  <span class="tag is-small">2019</span>
+  <!-- <span class="tag is-small">2019</span>
   <br>
-  <br>
+  <br> -->
   <span class="tag is-small">2018</span>
   <li><b>Alexander, R. B.</b>, Caesar, J. M., Doddanavar, R. C., Doll, J. Q. (2018), <a href="http://rbalexander.me/publications/2018_integrated_flight_modeling.pdf" target="_blank">Integrated flight modeling: trajectory analysis and hybrid engine performance</a>, Extended abstract submitted and accepted for 2018 Spaceport America Cup Conference </li>
-  <br>
   <br>
   <span class="tag is-small">2017</span>
   <li><b>Alexander, R. B.</b> (2017), <a href="http://rbalexander.me/publications/2017_correlation_study.pdf" target="_blank">Correlation study of CFD turbulence modeling approaches for an axisymmetric missile concept</a>, Report produced for Corvid Technologies during Summer 2017 internship</li>
