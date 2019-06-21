@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching
 
-## Texas A&M University
+### *Texas A&M University*
 ___
 #### <a href="https://catalog.tamu.edu/undergraduate/course-descriptions/aero/" target="_blank">AERO 430: Advanced Numerical Simulation</a>, Teaching Assistant
 <span class="tag is-small">Spring 2018</span> <span class="tag is-small">Fall 2018</span> <span class="tag is-small">Spring 2019</span>
