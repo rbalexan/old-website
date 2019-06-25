@@ -4,10 +4,10 @@ title: About
 ---
 
 # About Me
-I'm a first-year graduate student pursuing a Master of Science in Aeronautics & Astronautics at Stanford University starting in September 2019. 
+I'm a first-year graduate student pursuing a Master of Science in <a href="https://aa.stanford.edu/" target="_blank">Aeronautics & Astronautics at Stanford University</a> starting in September 2019. 
 
 ### *Undergraduate*
-From 2015 to 2019, I attended Texas A&M University studying aerospace engineering. In May 2019, I graduated with my Bachelor of Science in Aerospace Engineering.
+From 2015 to 2019, I pursued a Bachelor of Science in <a href="https://engineering.tamu.edu/aerospace/index.html" target="_blank">Aerospace Engineering at Texas A&M University</a>. In May 2019, I graduated with my Bachelor of Science in Aerospace Engineering.
 
 ### *Graduate*
 In early 2019, I was selected as a <a href="https://vpge.stanford.edu/fellowships-funding/sgf/details" target="_blank">Stanford Graduate Fellow in Science & Engineering</a>! I am very grateful to have been nominated and selected for support as a doctoral fellow through the SGF program.
