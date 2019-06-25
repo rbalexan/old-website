@@ -7,11 +7,6 @@ title: Contact
 .hero-body .column {
 	margin-bottom: 180px;
 }
-
-#email {
-	text-align: center;
-	font-size: 25px;
-}
 </style>
 
 <script type="module">
