@@ -32,7 +32,7 @@ element.search = searchParams.toString();
 
 <span class="icon"> <i class="fas fa-envelope"></i> </span> Email: <a href="mailto:rbalexander@stanford.edu">rbalexander@stanford.edu</a>
 
-<span class="icon"> <i class="fab fa-github"></i> </span> Github: <a href="https://github.com/rbalexander" target="_blank">@rbalexander</a>
+<span class="icon"> <i class="fab fa-github"></i> </span> Github: <a href="https://github.com/rbalexander" target="_blank">@rbalexan</a>
 
 <span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">@r-b-alexander</a>
 
