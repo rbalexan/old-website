@@ -11,14 +11,12 @@ title: Publications
 
 # Publications
 
-*Check out my blog, <a href="https://medium.com/r-b-alexanders-blog" target="_blank">Advancing Front</a>, which has articles covering topics in aeronautics & astronautics, mathematics, computer science, philosophy, and much more.*
-
 ### *Unrefereed Publications*
 
 <ol reversed>
   <!-- <span class="tag is-small">2019</span>
-  <br>
-  <br> -->
+  <li><b>Alexander, R. B.</b>, Kaminsky A. L. (2019), <a href="http://rbalexander.me/publications/2019_optimization_of_guided_weapon_designs.pdf" target="_blank">Optimization of guided weapon designs with a stochastic objective function using a genetic algorithm</a>, Report produced for CFD Research Corporation during Summer 2019 internship</li> 
+  <br>-->
   <span class="tag is-small">2018</span>
   <li><b>Alexander, R. B.</b>, Caesar, J. M., Doddanavar, R. C., Doll, J. Q. (2018), <a href="http://rbalexander.me/publications/2018_integrated_flight_modeling.pdf" target="_blank">Integrated flight modeling: trajectory analysis and hybrid engine performance</a>, Extended abstract submitted and accepted for 2018 Spaceport America Cup Conference </li>
   <br>
