@@ -4,7 +4,7 @@ title: About
 ---
 
 # About Me
-My name is Ross Alexander and I'm a first-year graduate student pursuing a Master of Science in <a href="https://aa.stanford.edu/" target="_blank">Aeronautics & Astronautics at Stanford University</a> starting in September 2019.
+My name is Ross B. Alexander and I'm a first-year graduate student pursuing a Master of Science in <a href="https://aa.stanford.edu/" target="_blank">Aeronautics & Astronautics at Stanford University</a> starting in September 2019.
 
 ### *Undergraduate*
 From 2015 to 2019, I pursued a Bachelor of Science in <a href="https://engineering.tamu.edu/aerospace/index.html" target="_blank">Aerospace Engineering at Texas A&M University</a>. In May 2019, I graduated with my Bachelor of Science in Aerospace Engineering.
