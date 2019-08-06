@@ -24,6 +24,8 @@ Fellows are selected each year by the Graduate Fellowships Faculty Advisory Comm
 My future graduate research is focused on estimation and control of stochastic systems, optimization, statistical machine learning, decision-making systems, autonomy, and reinforcement learning (RL).
 
 ### *Links*
-- [Email](/contact)
-- <a href="https://github.com/rbalexan" target="_blank">GitHub</a>
-- <a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">LinkedIn</a>
+<span class="icon"> <i class="fas fa-envelope"></i> </span> Email: <a href="mailto:rbalexan@stanford.edu">rbalexan@stanford.edu</a>
+
+<span class="icon"> <i class="fab fa-github"></i> </span> Github: <a href="https://github.com/rbalexan" target="_blank">@rbalexan</a>
+
+<span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">@r-b-alexander</a>
