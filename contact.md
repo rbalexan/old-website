@@ -34,7 +34,7 @@ element.search = searchParams.toString();
 
 <span class="icon"> <i class="fab fa-github"></i> </span> Github: <a href="https://github.com/rbalexan" target="_blank">@rbalexan</a>
 
-<span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/r-b-alexander/" target="_blank">@r-b-alexander</a>
+<span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/rbalexan/" target="_blank">@rbalexan</a>
 
 ---
 
