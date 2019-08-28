@@ -36,6 +36,8 @@ element.search = searchParams.toString();
 
 <span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/rbalexan/" target="_blank">@rbalexan</a>
 
+<span class="icon"> <i class="fas fa-tree"></i> </span> Stanford Profiles: <a href="https://profiles.stanford.edu/ross-alexander" target="_blank">@ross-alexander</a>
+
 ---
 
 

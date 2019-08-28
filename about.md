@@ -29,3 +29,5 @@ My future graduate research is focused on estimation and control of stochastic s
 <span class="icon"> <i class="fab fa-github"></i> </span> Github: <a href="https://github.com/rbalexan" target="_blank">@rbalexan</a>
 
 <span class="icon"> <i class="fab fa-linkedin"></i> </span> LinkedIn: <a href="https://www.linkedin.com/in/rbalexan/" target="_blank">@rbalexan</a>
+
+<span class="icon"> <i class="fas fa-tree"></i> </span> Stanford Profiles: <a href="https://profiles.stanford.edu/ross-alexander" target="_blank">@ross-alexander</a>
