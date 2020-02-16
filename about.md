@@ -21,7 +21,7 @@ Students must be nominated for the SGF by their department. Most nominees are st
 Fellows are selected each year by the Graduate Fellowships Faculty Advisory Committee, made up of faculty from many eligible departments.
 
 ### *Research*
-My future graduate research is focused on statistical machine learning, decision theory, automated planning, and reinforcement learning (RL).
+My future graduate research is focused on statistical machine learning, reinforcement learning, decision theory, autonomous driving, and human-centered autonomous systems.
 
 ### *Links*
 <span class="icon"> <i class="fas fa-envelope"></i> </span> Email: <a href="mailto:rbalexan@stanford.edu">rbalexan@stanford.edu</a>
