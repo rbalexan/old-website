@@ -5,6 +5,15 @@ title: Teaching
 
 # Teaching
 
+### *Stanford University*
+___
+#### <a href="https://catalog.tamu.edu/undergraduate/course-descriptions/aero/" target="_blank">Artificial Intelligence</a>, Instructor
+<span class="tag is-small">Summer 2020</span>
+
+Two-week course for Stanford Pre-Collegiate Studies Summer Institutes. Overview of methods in modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning techniques.
+
+___
+
 ### *Texas A&M University*
 ___
 #### <a href="https://catalog.tamu.edu/undergraduate/course-descriptions/aero/" target="_blank">AERO 430: Advanced Numerical Simulation</a>, Teaching Assistant
