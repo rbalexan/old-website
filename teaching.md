@@ -7,7 +7,8 @@ title: Teaching
 
 ### *Stanford University*
 ___
-#### <a href="https://catalog.tamu.edu/undergraduate/course-descriptions/aero/" target="_blank">Artificial Intelligence</a>, Instructor
+#### <a href="https://summerinstitutes.spcs.stanford.edu/courses/2020/artificial-intelligence-0?source=/courses/2020" target="_blank">Artificial Intelligence</a>, Instructor
+
 <span class="tag is-small">Summer 2020</span>
 
 Two-week course for Stanford Pre-Collegiate Studies Summer Institutes. Overview of methods in modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning techniques.
