@@ -35,9 +35,10 @@ Includes unrefereed conference proceedings, internship reports, and graduate cou
   <li><a href="http://rbalexander.me/publications/2018_integrated_flight_modeling.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, J. M. Caesar, R. C. Doddanavar, and J. Q. Doll, "Integrated flight modeling: trajectory analysis and hybrid engine performance," in <i>Spaceport America Cup Conference</i>, 2018.</li>
   <br>
   <span class="tag is-small">2017</span>
-  <li><a href="http://rbalexander.me/publications/2017_correlation_study.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, "Correlation study of CFD turbulence modeling approaches for an axisymmetric missile concept", report produced for Corvid Technologies during summer internship, 2017.</li>
+  <li><a href="http://rbalexander.me/publications/2017_correlation_study.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, "Correlation study of CFD turbulence modeling approaches for an axisymmetric missile concept," report produced for Corvid Technologies during summer internship, 2017.</li>
   <li><a href="http://rbalexander.me/publications/2017_cfd_analysis_and_optimization.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, "CFD analysis and optimization of flow deflector geometry for a supersonic free jet," in <i>Spaceport America Cup Conference</i>, 2017.</li>
 </ol>
+
 
 
 
