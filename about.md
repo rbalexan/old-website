@@ -4,7 +4,7 @@ title: About
 ---
 
 # About Me
-My name is Ross B. Alexander and I'm a first-year graduate student pursuing a Master of Science in <a href="https://aa.stanford.edu/" target="_blank">Aeronautics & Astronautics at Stanford</a>. (M.S. 2021; Ph.D. 2024) 
+My name is Ross B. Alexander and I'm a second-year graduate student pursuing a Master of Science in <a href="https://aa.stanford.edu/" target="_blank">Aeronautics & Astronautics at Stanford</a>. (M.S. 2021; Ph.D. 2024) 
 
 ### *Undergraduate*
 
