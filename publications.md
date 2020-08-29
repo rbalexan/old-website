@@ -14,7 +14,7 @@ title: Publications
 
 <ol reversed>
   <span class="tag is-small">2021</span>
-  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;A. L. Kaminsky, <b>R. B. Alexander</b>, S. H. Hong, Y. Wang, K. Pant, K. Flynn, and R. Thompson, "A surrogate-assisted genetic algorithm for design of guided weapons with stochastic Monte Carlo evaluation," draft submitted to <i>AIAA SciTech Conference</i>, 2021.</li> 
+  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;A. L. Kaminsky, <b>R. B. Alexander</b>, S. H. Hong, Y. Wang, K. Pant, K. Flynn, and R. Thompson, "A surrogate-assisted genetic algorithm for design of guided weapons with stochastic Monte Carlo evaluation," to appear in <i>AIAA SciTech Conference</i>, 2021.</li> 
 </ol>
 
 
