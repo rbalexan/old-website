@@ -16,9 +16,9 @@ Techniques for decision making under uncertainty and overview of necessary tools
 ___
 
 #### <a href="https://summerinstitutes.spcs.stanford.edu/courses/2020/artificial-intelligence-0?source=/courses/2020" target="_blank">Artificial Intelligence</a>, Instructor
-<span class="tag is-small">June 2020</span> <span class="tag is-small">August 2020</span>
+<span class="tag is-small">June 2020</span> <span class="tag is-small">August 2020</span> <span class="tag is-small">January 2021</span>
 
-Two-week course for Stanford Pre-Collegiate Studies (SPCS) <a href="https://summerinstitutes.spcs.stanford.edu/summer-institutes-online" target="_blank">Summer Institutes</a> (SI) and <a href="https://international.spcs.stanford.edu/spii-online" target="_blank">International Institutes</a> (II). Overview of modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning algorithms.
+Two-week courses for Stanford Pre-Collegiate Studies (SPCS) <a href="https://summerinstitutes.spcs.stanford.edu/summer-institutes-online" target="_blank">Summer Institutes</a> (SI) and <a href="https://international.spcs.stanford.edu/spii-online" target="_blank">International Institutes</a> (II). Overview of modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning algorithms.
 
 ___
 
