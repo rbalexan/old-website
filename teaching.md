@@ -5,21 +5,34 @@ title: Teaching
 
 # Teaching
 
-### *Stanford University*
+### *Eduexplora*
 ___
 
-<!-- #### <a href="https://summerinstitutes.spcs.stanford.edu/" target="_blank">Numerical Simulation</a>, Instructor
+#### <a href="https://www.eduexplora.com/online/grade7-8-discrete-mathematics-talley-amir.php" target="_blank">Artificial Intelligence</a>, Instructor
+<span class="tag is-small">January 2021</span>
+
+Two-week survey course for 7th-9th graders that provides an overview of artificial intelligence; understanding the core concepts of AI: perception, representation & reasoning, learning, natural interaction, and societal impact; recognizing AI in their daily lives; investigating high-level unsupervised and supervised learning algorithms; critical thinking about fairness, bias, and ethics in AI.
+
+___
+
+### *Stanford Pre-Collegiate Studies*
+___
+
+#### <a href="https://summerinstitutes.spcs.stanford.edu/" target="_blank">Numerical Simulation</a>, Instructor
 <span class="tag is-small">August 2021</span> 
 
-Two-week courses for Stanford Pre-Collegiate Studies (SPCS) <a href="https://summerinstitutes.spcs.stanford.edu/summer-institutes-online" target="_blank">Summer Institutes</a> (SI).
+Two-week undergraduate-level course for 11th-12th graders that covers efficient computational methods for solving mathematical equations with a high degree of precision. Topics include function evaluation, interpolation, extrapolation, regression; solution of linear and nonlinear algebraic equations; numerical optimization, differentiation, and integration; solution of differential equations and eigenvalue problems; simulation of real-world dynamical systems.
 
-___ -->
+___
 
 #### <a href="https://summerinstitutes.spcs.stanford.edu/courses/2020/artificial-intelligence-0?source=/courses/2020" target="_blank">Artificial Intelligence</a>, Instructor
-<span class="tag is-small">June 2020</span> <span class="tag is-small">August 2020</span> <span class="tag is-small">January 2021</span> <!-- <span class="tag is-small">June 2021</span>  -->
+<span class="tag is-small">June 2020</span> <span class="tag is-small">August 2020</span> <span class="tag is-small">June 2021</span>
 
-Two-week courses for Stanford Pre-Collegiate Studies (SPCS) <a href="https://summerinstitutes.spcs.stanford.edu/summer-institutes-online" target="_blank">Summer Institutes</a> (SI) and <a href="https://international.spcs.stanford.edu/spii-online" target="_blank">International Institutes</a> (II), as well as <a href="https://www.eduexplora.com/online/" target="_blank">Eduexplora</a>. Overview of modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning algorithms.
+Two-week undergraduate-level course for 11th-12th graders that provides an overview of modern artificial intelligence; development of mathematical and programming proficiency in machine learning and optimization, including supervised learning, unsupervised learning, and reinforcement learning algorithms.
 
+___
+
+### *Stanford University*
 ___
 
 #### <a href="https://web.stanford.edu/class/aa228/cgi-bin/wp/" target="_blank">AA 228/CS 238: Decision Making under Uncertainty</a>, Teaching Assistant
