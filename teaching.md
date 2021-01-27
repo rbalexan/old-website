@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: collection
 title: Teaching
 ---
 
