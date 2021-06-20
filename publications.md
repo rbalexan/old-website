@@ -24,6 +24,9 @@ title: Publications
 Includes unrefereed conference proceedings, internship reports, and graduate course research projects
 
 <ol reversed>
+  <span class="tag is-small">2021</span>
+  <li><a href="http://rbalexander.me/publications/2021_estimating_vehicle_kinematics_using_onboard_imu_and_wheel_speed_sensors.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, R. Goradia, and T. P. Weber, "Estimating vehicle kinematics using onboard IMU and wheel speed sensors," final project for <i>AA 273: State Estimation and Filtering for Perception and Control</i> graduate course at Stanford University, 2021.</li> 
+  <br>
   <span class="tag is-small">2020</span>
   <li><a href="http://rbalexander.me/publications/2020_active_learning_for_efficiently_constructing_surrogate_models.pdf" target="_blank"><i class="fas fa-external-link-alt fa-xs"></i></a>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, "Active learning for efficiently constructing surrogate models," final project for <i>CS 361: Engineering Design Optimization</i> graduate course at Stanford University, 2020.</li> 
   <br>
