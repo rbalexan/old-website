@@ -10,11 +10,21 @@ title: Publications
 </style>
 # Publications
 
-### *Pre-print Publications*
+
+### *Publications In Preparation*
 
 <ol reversed>
   <span class="tag is-small">2021</span>
-  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;A. L. Kaminsky, <b>R. B. Alexander</b>, S. H. Hong, Y. Wang, K. Pant, K. Flynn, and R. Thompson, "A surrogate-assisted genetic algorithm for design of guided weapons with stochastic Monte Carlo evaluation," to appear in <i>AIAA SciTech Conference</i>, 2021.</li> 
+  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b>, N. Kaushik, L. Laird, C. J. van der Loo, S. Choudhury, R. Walters, N. Smedemark-Margulies, M. J. Kochenderfer, R. S. Caceres, J. W. van de Meent, and T. Eliassi-Rad, "Learning adaptive intervention strategies for control of epidemics on contact topologies," 2021.</li> 
+  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;<b>R. B. Alexander</b> and M. J. Kochenderfer, "Scalable planning approaches for connected autonomous vehicle collision avoidance in urban scenarios," 2021.</li> 
+</ol>
+
+
+### *Pre-print Publications*
+
+<ol reversed>
+  <span class="tag is-small">2022</span>
+  <li><i class="fas fa-external-link-alt fa-xs"></i>&nbsp;&nbsp;&nbsp;A. L. Kaminsky, <b>R. B. Alexander</b>, S. H. Hong, Y. Wang, K. Pant, K. Flynn, and R. Thompson, "A surrogate-assisted genetic algorithm for design of guided weapons with stochastic Monte Carlo evaluation," to appear in <i>AIAA SciTech Conference</i>, 2022.</li> 
 </ol>
 
 
