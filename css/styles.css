@@ -3794,6 +3794,13 @@ input[type="button"].btn--primary:focus {
     border-radius: 50%;
 }
 
+.s-education__pic {
+    width: var(--vspace-5);
+    height: var(--vspace-5);
+    margin-top: -2rem;
+    align-items: center;
+}
+
 .s-about__content-bottom {
     margin-top: var(--vspace-2);
 }
@@ -3844,6 +3851,11 @@ input[type="button"].btn--primary:focus {
         height: var(--vspace-4_5);
         border-width: 1.4rem;
     }
+    .s-education__pic {
+        width: var(--vspace-4_5);
+        height: var(--vspace-4_5);
+        border-width: 1.4rem;
+    }
 }
 
 @media screen and (max-width: 900px) {
@@ -3852,6 +3864,10 @@ input[type="button"].btn--primary:focus {
         height: var(--vspace-4);
         border-width: 1.2rem;
     }
+    .s-education__pic {
+        width: var(--vspace-4);
+        height: var(--vspace-4);
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -3859,6 +3875,9 @@ input[type="button"].btn--primary:focus {
         padding-top: var(--vspace-5);
     }
     .s-about__pic {
+        display: none;
+    }
+    .s-education__pic {
         display: none;
     }
 }
