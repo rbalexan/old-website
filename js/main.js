@@ -128,6 +128,21 @@
     }; // end ssMobileMenu
 
 
+    /* Masonry
+    * ---------------------------------------------------- */ 
+    var ssMasonryFolio = function () {
+
+        var containerBricks = $('.masonry');
+
+        containerBricks.imagesLoaded(function () {
+            containerBricks.masonry({
+                itemSelector: '.masonry__brick',
+                resize: true
+            });
+        });
+    };
+
+
    /* Highlight active menu link on pagescroll
     * ------------------------------------------------------ */
     const ssScrollSpy = function() {
@@ -296,7 +311,6 @@
     }; // end ssBackToTop
 
 
-
    /* initialize
     * ------------------------------------------------------ */
     (function ssInit() {
@@ -305,13 +319,14 @@
         ssParallax();
         ssMoveHeader();
         ssMobileMenu();
+        ssMasonryFolio();
         ssScrollSpy();
         ssSwiper();
         ssLightbox();
         ssAlertBoxes();
         ssSmoothScroll();
         ssBackToTop();
-
+        
     })();
 
 })(document.documentElement);

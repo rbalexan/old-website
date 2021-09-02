@@ -712,7 +712,7 @@ input[type="password"], textarea {
 /* rows
  * ------------------------------------- */
 .row {
-    width: 92%;
+    width: 100%;
     max-width: var(--width-grid-max);
     margin: 0 auto;
     display: -ms-flexbox;
@@ -3997,13 +3997,13 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 .folio-list {
     max-width: 1180px;
-    margin-top: var(--vspace-2_5);
 }
 
 /* from other theme */
 .folio-item {
     position: relative;
     overflow: hidden;
+    border-radius: var(--border-radius);
   }
   
 .folio-item__caption {
@@ -4038,6 +4038,7 @@ input[type="button"].btn--primary:focus {
 
 .folio-item__thumb::after {
     z-index: 1;
+    z-index: 2;
     content: "+";
     font-family: var(--font-2);
     font-weight: 300;
@@ -4045,7 +4046,7 @@ input[type="button"].btn--primary:focus {
     color: white;
     display: block;
     height: 32px;
-    width: 32px;
+    /* height: 32px;
     line-height: 32px;
     margin-left: -16px;
     margin-top: -16px;
@@ -4069,27 +4070,26 @@ input[type="button"].btn--primary:focus {
 }
 
 
-/* from other theme */
 /* portfolio info
  *---------------------------------------------- */
 .folio-item__info {
-z-index: 2;
-padding: 0 3rem;
--webkit-transform: translate3d(0, -100%, 0);
-transform: translate3d(0, -100%, 0);
-opacity: 0;
-visibility: hidden;
--webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
-position: absolute;
-left: 0;
-top: 3.6rem;
+    z-index: 2;
+    padding: 0 3rem;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+    position: absolute;
+    left: 0;
+    top: 1rem;
 }
 
 .folio-item__title {
 color: #ffffff;
 font-weight: 400;
-font-size: 2.1rem;
+font-size: 1.8rem;
 line-height: 1.333;
 margin: 0;
 }
@@ -4101,20 +4101,9 @@ font-size: 1.4rem;
 margin-bottom: 0;
 }
 
-.folio-item__project-link {
-z-index: 2;
-display: block;
-font-family: "Gothic A1", sans-serif;
 font-weight: 400;
 font-size: 1.2rem;
 line-height: 2rem;
-color: #000000;
-background-color: #ffffff;
-padding: .6rem 1.2rem;
-opacity: 0;
-visibility: hidden;
--webkit-transform: translate3d(-100%, 0, 0);
-transform: translate3d(-100%, 0, 0);
 -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
 transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
 position: absolute;
