@@ -4342,16 +4342,19 @@ margin-bottom: 0;
 
 @media only screen and (max-width: 700px) {
     .masonry-wrap {
-        width: 90%;
+        width: 450px;
     }
     .masonry .grid-sizer, .masonry__brick {
-        width: 450px;
+        width: 100%;
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 450px) {
+    .masonry-wrap {
+        width: 100%;
+    }
     .masonry .grid-sizer, .masonry__brick {
-        width: 90%;
+        width: 100%;
     }
 }
 
