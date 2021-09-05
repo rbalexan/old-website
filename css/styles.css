@@ -3267,7 +3267,7 @@ input[type="button"].btn--primary:focus {
     bottom: auto;
     background-color: white;
     position: absolute;
-    left: 19px;
+    left: 10px;
     top: 50%;
     -webkit-transition: all .5s;
     transition: all .5s;
@@ -4342,7 +4342,7 @@ margin-bottom: 0;
 
 @media only screen and (max-width: 700px) {
     .masonry-wrap {
-        width: 450px;
+        width: 90%;
     }
     .masonry .grid-sizer, .masonry__brick {
         width: 450px;
