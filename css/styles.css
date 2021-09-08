@@ -3788,7 +3788,7 @@ input[type="button"].btn--primary:focus {
 .s-about__pic {
     width: var(--vspace-5);
     height: var(--vspace-5);
-    border: 1.6rem solid rgba(255, 255, 255, 0.02);
+    border: 1rem solid rgba(255, 255, 255, 0.048);
     border-radius: 50%;
 }
 
@@ -3801,6 +3801,10 @@ input[type="button"].btn--primary:focus {
 
 .s-about__content-bottom {
     margin-top: var(--vspace-2);
+}
+
+.s-about__content p span {
+    color: var(--color-1);
 }
 
 .s-about__content-bottom a {
@@ -3845,9 +3849,9 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 1200px) {
     .s-about__pic {
-        width: var(--vspace-4_5);
-        height: var(--vspace-4_5);
-        border-width: 1.4rem;
+        /* width: var(--vspace-4_5); */
+        /* height: var(--vspace-4_5);  */
+        /* border-width: 1.4rem; */
     }
     .s-education__pic {
         width: var(--vspace-4_5);
@@ -3858,9 +3862,9 @@ input[type="button"].btn--primary:focus {
 
 @media screen and (max-width: 900px) {
     .s-about__pic {
-        width: var(--vspace-4);
-        height: var(--vspace-4);
-        border-width: 1.2rem;
+        /* width: var(--vspace-4); */
+        /* height: var(--vspace-4); */
+        /* border-width: 1.2rem; */
     }
     .s-education__pic {
         width: var(--vspace-4);
@@ -3873,7 +3877,8 @@ input[type="button"].btn--primary:focus {
         padding-top: var(--vspace-5);
     }
     .s-about__pic {
-        display: none;
+        /* display: none; */
+        align-self: center;
     }
     .s-education__pic {
         display: none;
