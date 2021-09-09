@@ -2552,13 +2552,13 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 .skill-bars-fat {
     list-style: none;
-    margin: var(--vspace-2) 0 var(--vspace-1);
+    margin: var(--vspace-2) var(--vspace-1) var(--vspace-1) 0;
 }
 
 .skill-bars-fat li {
-    height: 5.2rem;
+    height: 2.5rem;
     background: transparent;
-    margin-bottom: 5.2rem;
+    margin-bottom: 3rem;
     padding: 0;
     position: relative;
 }
@@ -2570,18 +2570,17 @@ input[type="button"].btn--primary:focus {
     text-transform: uppercase;
     letter-spacing: .2em;
     font-size: calc(var(--text-size) * 0.7778);
-    line-height: 2rem;
+    line-height: 1rem;
     position: absolute;
-    top: -3.2rem;
+    top: -1.5rem;
     left: 0;
 }
 
 .skill-bars-fat li .progress {
-    background: var(--color-gray-3);
+    background: var(--color-gray-2);
     position: relative;
     height: 100%;
     border-radius: 3px;
-    overflow: hidden;
     position: relative;
 }
 
@@ -2589,7 +2588,8 @@ input[type="button"].btn--primary:focus {
     content: "";
     display: block;
     height: 100%;
-    background-color: var(--color-gray-18);
+    background-color: var(--color-1);
+    border-radius: 3px;
 }
 
 .skill-bars-fat li .percent5::before {
