@@ -3963,6 +3963,11 @@ input[type="button"].btn--primary:focus {
     margin-right: .2rem;
 }
 
+.skill-blob img {
+    max-height: 400px;
+    padding-top: 8rem;
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * resume
@@ -3973,6 +3978,9 @@ input[type="button"].btn--primary:focus {
     }
     .s-resume__section .column:first-child {
         text-align: center;
+    }
+    .skill-blob img {
+        padding-top: 0rem;
     }
 }
 
