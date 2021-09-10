@@ -187,7 +187,7 @@
      * vertical space unit : 32px
      */
     --base-size: 62.5%;
-    --base-font-size: 1.8rem;
+    --base-font-size: 1.7rem;
     --space: 3.2rem;
 
     /* vertical spacing 
@@ -3792,11 +3792,10 @@ input[type="button"].btn--primary:focus {
     border-radius: 50%;
 }
 
-.s-education__pic {
-    width: var(--vspace-4_5);
-    height: var(--vspace-4_5);
-    margin-top: -2rem;
-    align-items: center;
+.s-resume__pic {
+    margin-top: -1.3rem;
+    padding-left: 18px;
+    max-height: var(--vspace-3);
 }
 
 .s-about__content-bottom {
@@ -3847,40 +3846,12 @@ input[type="button"].btn--primary:focus {
  * responsive:
  * about
  * ------------------------------------------------------------------- */
-@media screen and (max-width: 1200px) {
-    .s-about__pic {
-        /* width: var(--vspace-4_5); */
-        /* height: var(--vspace-4_5);  */
-        /* border-width: 1.4rem; */
-    }
-    .s-education__pic {
-        width: var(--vspace-4_5);
-        height: var(--vspace-4_5);
-        border-width: 1.4rem;
-    }
-}
-
-@media screen and (max-width: 900px) {
-    .s-about__pic {
-        /* width: var(--vspace-4); */
-        /* height: var(--vspace-4); */
-        /* border-width: 1.2rem; */
-    }
-    .s-education__pic {
-        width: var(--vspace-4);
-        height: var(--vspace-4);
-    }
-}
 
 @media screen and (max-width: 800px) {
     .s-about {
         padding-top: var(--vspace-5);
     }
-    .s-about__pic {
-        /* display: none; */
-        align-self: center;
-    }
-    .s-education__pic {
+    .s-resume__pic {
         display: none;
     }
 }
@@ -3939,7 +3910,7 @@ input[type="button"].btn--primary:focus {
     font-size: calc(var(--text-size) * 1.1111);
     font-style: italic;
     margin-top: -.4rem;
-    margin-bottom: var(--vspace-0_75);
+    margin-bottom: var(--vspace-0_25);
 }
 
 .resume-block__header-meta span:first-child {
