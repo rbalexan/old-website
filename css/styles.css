@@ -3510,7 +3510,7 @@ input[type="button"].btn--primary:focus {
     color: rgba(255, 255, 255, 1);
     margin-top: var(--vspace-0_5);
     padding-bottom: var(--vspace-1);
-    max-width: 650px;
+    max-width: 600px;
     position: relative;
 }
 
@@ -3679,7 +3679,7 @@ input[type="button"].btn--primary:focus {
     }
     .s-hero__content h3 {
         font-size: 2rem;
-        max-width: 650px;
+        max-width: 600px;
     }
 }
 
