@@ -34,13 +34,20 @@
 
 <body id="top" class="ss-preload">
 
+    <script>
+    $(document).ready(function() {  
+        var modals = ['#modal-mit-ll-research'];
+        if (window.location.hash && ~modals.indexOf(window.location.hash)) {
+           $(window.location.hash).modal();
+        }
+      })
+    </script>
 
     <!-- preloader
     ================================================== -->
     <div id="preloader">
         <div id="loader"></div>
     </div>
-
 
     <!-- header
     ================================================== -->
@@ -171,33 +178,6 @@
             </div>
 
             <div class="column large-9 tab-12"></div>
-
-            <!-- stanford phd -->
-            <div class="column large-3 tab-12">
-                <img class="s-resume__pic" src="images/resume/stanford.png" alt="">
-            </div>
-
-            <div class="column large-9 tab-12">
-
-                <div class="resume-block">
-
-                    <div class="resume-block__header">
-                        <h4 class="h3">Stanford University</h4>
-                        <p class="resume-block__header-meta">
-                            <span>Ph.D. in Aeronautics & Astronautics, Artificial Intelligence Track</span> 
-                            <span class="resume-block__header-date">Not Completed</span>
-                        </p>
-                    </div>
-
-                    <ul style="margin-top: 0; margin-bottom: 24px; line-height: 1.5;">
-                        <li>Stanford Graduate Fellowship in Science & Engineering (SGF)</li>
-                    </ul>
-
-                    </p>
-
-                </div> <!-- end resume-block -->
-
-            </div>
 
             <!-- stanford ms -->
             <div class="column large-3 tab-12">
